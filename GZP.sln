@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZP", "GZP\GZP.csproj", "{27F5786F-0838-4AE5-94B7-BD79B144426F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F5786F-0838-4AE5-94B7-BD79B144426F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F5786F-0838-4AE5-94B7-BD79B144426F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F5786F-0838-4AE5-94B7-BD79B144426F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F5786F-0838-4AE5-94B7-BD79B144426F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5262FCE-7872-4B5A-8015-9C34A41A025B}
+	EndGlobalSection
+EndGlobal
